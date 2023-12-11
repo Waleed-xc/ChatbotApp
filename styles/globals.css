@@ -10,7 +10,7 @@
 
 body {
   font-family: 'Muli', sans-serif;
-  background-color: #f0f0f0;
+  background-color: #ECEDF0;
 }
 
 h1 {
@@ -98,7 +98,7 @@ h1 {
 }
 
 .faq.active .faq-toggle .fa-times {
-  color: #fff;
+  color: blue;
   display: block;
 }
 
@@ -107,7 +107,7 @@ h1 {
 }
 
 .faq.active .faq-toggle {
-  background-color: #9fa4a8;
+  background-color: white;
 }
 
 * {
