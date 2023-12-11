@@ -9,7 +9,6 @@ export default function App({ Component, pageProps }) {
     <SignedIn>
     <div class="ml-4 mt-4">
  <UserButton/>  </div>
-
     <Component {...pageProps} />
     </SignedIn>
     <SignedOut>
